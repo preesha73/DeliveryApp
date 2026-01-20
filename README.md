@@ -100,7 +100,7 @@ docker-compose up --build
 - Backend & Frontend deployed on **Render**
 - Fully automated pipeline with Docker containers
 
-**Live Demo:** [https://your-live-link-here](https://your-live-link-here)
+**Live Demo:** [https://delivery-app-client-0noj.onrender.com/]([https://your-live-link-here](https://delivery-app-client-0noj.onrender.com/))
 
 ---
 
