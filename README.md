@@ -137,7 +137,7 @@ npm start
 ## 👤 Author
 
 **Preesha Vashisth**  
-B.Tech (3rd Year) – VIT Bhopal  
+B.Tech – Vellore Institute of Technology  
 Aspiring Full-Stack & Software Engineer
 
 ---
